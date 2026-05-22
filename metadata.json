@@ -1,0 +1,6 @@
+{
+  "name": "Batch Edit Pro",
+  "description": "专业的批量数据、Excel与CSV文件精准修改与规则化处理工具",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
